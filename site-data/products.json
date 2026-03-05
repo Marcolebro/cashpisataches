@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Stake",
+    "slug": "stake",
+    "affiliate_slug": "stake",
+    "url": "https://stake.com",
+    "bonus": "200% jusqu'à 1000€ + 5% Rakeback",
+    "rating": 4.9,
+    "pros": [
+      "Retraits instantanés illimités",
+      "Meilleur programme VIP du marché",
+      "Jeux originaux exclusifs (Plinko, Mines)",
+      "Support client 24/7 ultra réactif"
+    ],
+    "cons": [
+      "Vérification d'identité (KYC) obligatoire",
+      "Interface parfois complexe pour les débutants"
+    ],
+    "category": "Crypto Casino",
+    "description": "Stake est le leader incontesté des casinos crypto. Avec une interface moderne, des milliers de slots et des paris sportifs intégrés, c'est la plateforme préférée des gros joueurs.",
+    "is_featured": true,
+    "badge": "Meilleur Choix"
+  },
+  {
+    "name": "Cresus Casino",
+    "slug": "cresus-casino",
+    "affiliate_slug": "cresus",
+    "url": "https://cresuscasino.com",
+    "bonus": "150% jusqu'à 300€ + 500 Free Spins",
+    "rating": 4.8,
+    "pros": [
+      "Bonus SANS condition de mise (Wager)",
+      "Retraits validés en moins de 24h",
+      "Plateforme historique et très fiable",
+      "Excellent catalogue de machines à sous"
+    ],
+    "cons": [
+      "Pas de jeux 'Provably Fair'",
+      "Moins de choix en crypto-monnaies"
+    ],
+    "category": "Casino en Ligne",
+    "description": "Cresus est la référence absolue pour les joueurs français. Sa politique de bonus sans condition de mise en fait l'un des casinos les plus honnêtes du marché.",
+    "is_featured": true,
+    "badge": "Top Fiabilité"
+  },
+  {
+    "name": "BC.Game",
+    "slug": "bc-game",
+    "affiliate_slug": "bcgame",
+    "url": "https://bc.game",
+    "bonus": "Jusqu'à 20 000$ de bonus de bienvenue",
+    "rating": 4.7,
+    "pros": [
+      "Accepte plus de 100 crypto-monnaies",
+      "Roue de la fortune gratuite chaque jour",
+      "Jeux communautaires et chat actif",
+      "Application mobile native performante"
+    ],
+    "cons": [
+      "Système de bonus (BCD) un peu complexe",
+      "Beaucoup de notifications promotionnelles"
+    ],
+    "category": "Crypto Casino",
+    "description": "BC.Game se distingue par sa décentralisation et son innovation. C'est le paradis pour les amateurs de crypto avec des bonus massifs et une ludothèque gigantesque.",
+    "is_featured": false,
+    "badge": "Spécial Crypto"
+  },
+  {
+    "name": "Lucky8",
+    "slug": "lucky8",
+    "affiliate_slug": "lucky8",
+    "url": "https://lucky8.com",
+    "bonus": "200% jusqu'à 200€ sur le premier dépôt",
+    "rating": 4.6,
+    "pros": [
+      "Promotions quotidiennes variées",
+      "Design élégant et navigation fluide",
+      "Jeux de table en direct (Evolution Gaming)",
+      "Dépôts par carte bancaire simplifiés"
+    ],
+    "cons": [
+      "Limites de retrait hebdomadaires",
+      "Moins de jeux que certains concurrents"
+    ],
+    "category": "Casino en Ligne",
+    "description": "Lucky8 propose une expérience de casino élégante et moderne. C'est le petit frère de Cresus, offrant la même fiabilité avec des promotions plus fréquentes.",
+    "is_featured": false,
+    "badge": "Top Promotions"
+  },
+  {
+    "name": "Tortuga Casino",
+    "slug": "tortuga",
+    "affiliate_slug": "tortuga",
+    "url": "https://tortugacasino.com",
+    "bonus": "120% jusqu'à 1200€ ou 400€ Fixe",
+    "rating": 4.5,
+    "pros": [
+      "Thématique pirate immersive",
+      "Club de fidélité 'Capitaine' exclusif",
+      "Nombreux tournois de machines à sous",
+      "Interface de jeu très stable"
+    ],
+    "cons": [
+      "Pas de support téléphonique",
+      "Conditions de mise sur certains bonus"
+    ],
+    "category": "Casino en Ligne",
+    "description": "Embarquez sur le navire Tortuga pour une aventure riche en bonus. Ce casino propose un univers unique et des avantages VIP réservés aux joueurs réguliers.",
+    "is_featured": false,
+    "badge": "Univers Unique"
+  },
+  {
+    "name": "MyStake",
+    "slug": "mystake",
+    "affiliate_slug": "mystake",
+    "url": "https://mystake.com",
+    "bonus": "100% jusqu'à 1000€ + Mini-jeux",
+    "rating": 4.4,
+    "pros": [
+      "Mini-jeux exclusifs (Le Poulet, Dino)",
+      "Section Paris Sportifs très complète",
+      "Large choix de méthodes de paiement",
+      "Bonus spécifique pour les mini-jeux"
+    ],
+    "cons": [
+      "Service client parfois lent",
+      "Conditions de retrait strictes"
+    ],
+    "category": "Hybride",
+    "description": "MyStake est devenu viral grâce à ses mini-jeux originaux comme Chicken. C'est une plateforme polyvalente qui combine casino, sport et jeux d'arcade.",
+    "is_featured": false,
+    "badge": "Meilleurs Mini-Jeux"
+  }
+]
